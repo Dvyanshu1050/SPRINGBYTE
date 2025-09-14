@@ -56,7 +56,7 @@ export function HeroSection() {
               {/* Link added to View Our Work */}
               <Link href="/projects" passHref>
                 <Button
-                  as="a"  // ensures the Button behaves as a link
+                  
                   size="lg"
                   className="border border-primary text-primary bg-transparent 
                              hover:bg-primary hover:text-white transition-colors duration-300"
